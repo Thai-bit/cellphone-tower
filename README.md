@@ -9,7 +9,7 @@ despite the bucolic setting, the residents of all these houses are avid cell
 phone users. You want to place cell phone base stations at certain points
 along the road, so that every house is within four miles of one of the base
 stations.
-#### Program Goal:
+#### Goal:
 Give an efficient algorithm that achieves this goal, using as few base
 stations as possible.
 #### Program Purpose:
