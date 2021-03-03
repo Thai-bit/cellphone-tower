@@ -61,10 +61,6 @@ vector<int> sortHouse(vector<int> houses){
                 houses[j] = temp;
             }
         }
-        for (int z = 0; z < houses.size(); z++) {
-            cout << houses[z] << " ";
-        }
-        cout << endl;
     }
     return houses;
 }
