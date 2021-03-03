@@ -25,7 +25,7 @@ length from west to east (left to right).
 - You will need CLion IDE to run the program.
 - Before running the program you need to find "housePosition.txt" in the cmake-build-debug folder
 - You will go into the file and add/edit the house position as desired.
-- The houses list will looks like this: 
+- The houses positions list will looks like this: 
 ```
   2
   5
