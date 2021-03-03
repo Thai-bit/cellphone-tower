@@ -25,6 +25,7 @@ length from west to east (left to right).
 - You will need CLion IDE to run the program.
 - Before running the program you need to find "housePosition.txt" in the cmake-build-debug folder
 - You will go into the file and add/edit the house position as desired.
+- You need to run the main.cpp file. 
 - After the program execute, it will display the minimum base tower that needed for all the resident 
   that live along the road. 
 
