@@ -19,7 +19,7 @@ void placeCellPhoneTower(const std::vector<int>&houses);
 
 int main() {
 
-    std::vector<int> houses = {};
+    std::vector<int> houses;
     int temp = -1;
     // read in the houses position from a file
     std::ifstream myfile("housePosition.txt");
