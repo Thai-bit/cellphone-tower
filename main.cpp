@@ -15,7 +15,7 @@
 
 //declaration for sort function
 std::vector<int> sortHouse(std::vector<int> houses);
-//delcaration for calculate the cellphone tower function
+//declaration for calculate the cellphone tower function
 void placeCellPhoneTower(const std::vector<int>&houses);
 
 int main() {
