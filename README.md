@@ -36,7 +36,7 @@ length from west to east (left to right).
   68
 ```
 - You need to run the **main.cpp** file. 
-- After the program execute, it will display the minimum base tower that needed for all the resident 
+- After the program executed, it will display the minimum base tower that needed for all the resident 
   that live along the road. 
 
  
