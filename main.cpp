@@ -9,6 +9,7 @@
 #include <iostream>
 #include <vector>
 #include <fstream>
+#include <cassert>
 
 
 
@@ -22,14 +23,14 @@ int main() {
     std::vector<int> houses;
     int temp = -1;
     // read in the houses position from a file
-    std::ifstream myfile("housePosition.txt");
-    assert(myfile.is_open());
+    std::ifstream myFile("housePosition.txt");
+    assert(myFile.is_open());
 
     while(true){
-        myfile >> temp;
+        myFile >> temp;
         houses.push_back(temp);
-        if (myfile.eof()){
-            myfile.close();
+        if (myFile.eof()){
+            myFile.close();
             break;
         }
     }
