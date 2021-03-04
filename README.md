@@ -40,6 +40,6 @@ length from west to east (left to right).
   that live along the road. 
   
  #### Time Complexity:
- -  This program time complexity is O(n^2) because it uses selection sort
+ -  This program time complexity is O(n^2) because it uses selection sort to sort the house positions.
 
  
