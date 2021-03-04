@@ -38,5 +38,8 @@ length from west to east (left to right).
 - You need to run the **main.cpp** file. 
 - After the program executed, it will display the minimum base tower that needed for all the resident 
   that live along the road. 
+  
+ #### Time Complexity:
+ -  This program time complexity is O(n^2) because it uses selection sort
 
  
